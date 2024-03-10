@@ -1,0 +1,5 @@
+langchain
+gradio
+pandas
+matplotlib
+numpy
